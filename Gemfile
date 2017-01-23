@@ -6,7 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 gem 'figaro'
-gem 'materialize-sass', '~> 0.96.1'
+gem 'materialize-sass'
 gem 'yelp', require: 'yelp'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.1'

@@ -174,7 +174,7 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   jquery-rails
   listen (~> 3.0.5)
-  materialize-sass (~> 0.96.1)
+  materialize-sass
   puma (~> 3.0)
   rails (~> 5.0.1)
   sass-rails (~> 5.0)
